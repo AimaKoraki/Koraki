@@ -1,0 +1,15 @@
+﻿{
+  "id": "Casper",
+  "walkFrames": ["walk_0.webp", "walk_1.webp", "walk_2.webp", "walk_3.webp"],
+  "turnFrames": [],
+  "preWalkFrames": [],
+  "idleFrames": ["idle_0.webp", "idle_1.webp"],
+  "walkFrameDurationMs": 160,
+  "idleFrameDurationMs": 140,
+  "idleChanceOnEdge": 0.5,
+  "idleMinMs": 800,
+  "idleMaxMs": 3000,
+  "walkHoldOnLastFrame": false,
+  "walkSpeedMinDpPerSec": 40,
+  "walkSpeedMaxDpPerSec": 80
+}

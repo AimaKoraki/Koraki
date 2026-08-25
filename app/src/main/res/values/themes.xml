@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#0D0B0C</item>
+        <item name="postSplashScreenTheme">@style/Theme.Koraki</item>
+    </style>
+
+    <style name="Theme.Koraki" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

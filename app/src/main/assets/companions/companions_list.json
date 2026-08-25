@@ -1,0 +1,28 @@
+{
+  "companions": [
+    {
+      "name": "Birdy",
+      "species": "Bird",
+      "requiredLevel": 1,
+      "spriteAsset": "Birdy",
+      "birthYear": 2024,
+      "favFoods": ["seeds", "berries"]
+    },
+    {
+      "name": "Casper",
+      "species": "Ghost",
+      "requiredLevel": 2,
+      "spriteAsset": "Casper",
+      "birthYear": 2024,
+      "favFoods": ["ectoplasm", "candy"]
+    },
+    {
+      "name": "Niffty",
+      "species": "Demon",
+      "requiredLevel": 3,
+      "spriteAsset": "Niffty",
+      "birthYear": 2024,
+      "favFoods": ["bugs", "sweets"]
+    }
+  ]
+}

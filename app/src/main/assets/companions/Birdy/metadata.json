@@ -1,0 +1,13 @@
+﻿{
+  "id": "Birdy",
+  "walkFrames": ["walk_0.png", "walk_1.png", "walk_2.png", "walk_3.png"],
+  "turnFrames": [],
+  "preWalkFrames": ["preWalk_0.png", "preWalk_1.png", "preWalk_2.png", "preWalk_3.png", "preWalk_4.png"],
+  "idleFrames": ["idle_0.png", "idle_1.png", "idle_2.png", "idle_3.png", "idle_4.png"],
+  "walkFrameDurationMs": 150,
+  "idleFrameDurationMs": 120,
+  "idleChanceOnEdge": 0.6,
+  "idleMinMs": 1000,
+  "idleMaxMs": 4000,
+  "walkHoldOnLastFrame": false
+}

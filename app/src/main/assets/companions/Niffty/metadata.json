@@ -1,0 +1,21 @@
+{
+  "id": "Niffty",
+  "walkFrames": ["walk_1.png", "walk_2.png", "walk_3.png"],
+  "turnFrames": ["walk_0.png"],
+  "preWalkFrames": [],
+  "idleFrames": [],
+  "idleIntroFrames": ["idle_0.png"],
+  "idleLoopFrames": ["idle_1.png", "idle_2.png", "idle_3.png", "idle_4.png", "idle_5.png"],
+  "idleOutroFrames": ["idel_6.png"],
+  "idleLoopMinCount": 2,
+  "idleLoopMaxCount": 3,
+  "walkFrameDurationMs": 150,
+  "idleFrameDurationMs": 130,
+  "idleChanceOnEdge": 0.5,
+  "idleMinMs": 3000,
+  "idleMaxMs": 7000,
+  "walkHoldOnLastFrame": false,
+  "idlePlayFullCycle": false,
+  "walkSpeedMinDpPerSec": 40,
+  "walkSpeedMaxDpPerSec": 80
+}
